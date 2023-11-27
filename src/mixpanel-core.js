@@ -82,7 +82,7 @@ if (navigator['sendBeacon']) {
 }
 
 var DEFAULT_API_ROUTES = {
-    'track': 'track/',
+    'track': 'track',
     'engage': 'engage/',
     'groups': 'groups/'
 };
